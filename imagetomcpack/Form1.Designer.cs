@@ -271,7 +271,7 @@
             this.Controls.Add(this.label1);
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Imagetomcpack";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.imagepreview)).EndInit();
             this.ResumeLayout(false);
