@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imagetomcpack", "imagetomcpack\imagetomcpack.csproj", "{A56820A8-D8CB-4955-978C-75EF6AF83EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56820A8-D8CB-4955-978C-75EF6AF83EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56820A8-D8CB-4955-978C-75EF6AF83EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56820A8-D8CB-4955-978C-75EF6AF83EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56820A8-D8CB-4955-978C-75EF6AF83EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2297850-FB38-40DF-B569-BD63999D02BC}
+	EndGlobalSection
+EndGlobal
