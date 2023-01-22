@@ -269,7 +269,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.verbox);
             this.Controls.Add(this.label1);
-            this.MinimizeBox = false;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Imagetomcpack";
             this.Load += new System.EventHandler(this.Form1_Load);
